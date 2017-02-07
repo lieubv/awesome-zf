@@ -8,29 +8,20 @@ Official Resources
 Zend Framework
 https://framework.zend.com
 
-Official Zend Framework repository
-https://github.com/zendframework/zendframework
+Official Zend Framework Github Organization
+https://github.com/zendframework
 
 Documentation
 =============
 
-User Guide
-https://framework.zend.com/manual/2.4/en/user-guide/overview.html
-
-Programmer’s Reference Guide
-https://framework.zend.com/manual/2.4/en/index.html
+User Guide & Programmer’s Reference Guide
+https://docs.zendframework.com
 
 API Documentation
 https://framework.zend.com/docs/api/zf2
 
-ZF Docs
-https://docs.zendframework.com
-
 ZF2 Cheatsheet
 http://zf2cheatsheet.com
-
-Programmer’s Reference Guide
-https://zf2.readthedocs.io/en/latest
 
 Tutorials
 =========
