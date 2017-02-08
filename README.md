@@ -2,178 +2,106 @@ A curated list of awesome Zend Framework 2/3 modules, tutorials, books and other
 
 Join discussion and contribute!
 
-Official Resources
-==================
+### Official Resources
 
-Zend Framework
-https://framework.zend.com
+- [Zend Framework](https://framework.zend.com) - Official Website.
+- [Zend Framework Github Organization](https://github.com/zendframework) - Official Zend Framework Github Organization.
 
-Official Zend Framework Github Organization
-https://github.com/zendframework
+### Documentation
 
-Documentation
-=============
+- [User Guide & Programmer’s Reference Guide](https://docs.zendframework.com) - Documentation for the ZF components.
+- [Zend Framework Tutorials](https://docs.zendframework.com/tutorials/) - MVC, Component, Migrating to Version 3 Tutorials.
+- [API](https://framework.zend.com/docs/api/zf2) - API Documentation.
+- [ZF Cheatsheet](http://zf2cheatsheet.com) - Controller, View, Doctrine, Form, Service, Routing, Mail, Validation.
+- [Coding Standards](https://github.com/zendframework/zendframework/wiki/Coding-Standards) - Zend Framework coding standards.
 
-User Guide & Programmer’s Reference Guide
-https://docs.zendframework.com
+### Tutorials
 
-API Documentation
-https://framework.zend.com/docs/api/zf2
+- [AlexTech](http://alex-tech-adventures.com) - Zend Framework video tutorials on Youtube.
+- [Zend Webinars](http://www.zend.com/en/webinars/recorded/show-by-topic/242_zend+framework)- List of Zend Framework Webninars from RogueWave Software.
+- [Zend Webinars](http://www.zend.com/en/resources/webinars) - Another list of recorded Webinars from RogueWave Software.
+- [ZF2 for PRO (Russian)](https://www.youtube.com/playlist?list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0) - Zend Framework 2 and Doctrine Youtube course.
 
-ZF2 Cheatsheet
-http://zf2cheatsheet.com
 
-Tutorials
-=========
+### Project structure examples
 
-Zend Framework video tutorials
-http://alex-tech-adventures.com
+- [Zend Skeleton](https://github.com/zendframework/ZendSkeletonApplication) - Skeleton application for zend-mvc projects.
 
-Webinars
-http://www.zend.com/en/webinars/recorded/show-by-topic/242_zend+framework
-http://www.zend.com/en/resources/webinars
+### Modules
 
-ZF2 for PRO (Russian)
-https://www.youtube.com/playlist?list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0
+- [ZF Modules](https://zfmodules.com) - Zend Framework 2 Modules Repository.
+- [ZF Campus](https://github.com/zfcampus) - Zend Framework Campus.
+- [ZF-Commons](https://github.com/ZF-Commons) - ZF-Commons.
+- [ZFTool](https://github.com/zendframework/ZFTool) - Utility module for maintaining modular Zend Framework 2 applications.
+- [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) - Module for developer and debug tools for working with the ZF2 MVC layer.
+- [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule) - Zend Framework 2 Module for Doctrine ORM.
+- [zf2rapid](https://github.com/ZFrapid/zf2rapid) - Console application to create ZF2 application rapidly.
+- [zf2-whoops](https://github.com/ghislainf/zf2-whoops) - PHP whoops error on ZF2 framework.
+- [ZfSimpleMigrations](https://github.com/vgarvardt/ZfSimpleMigrations) - Simple Migrations for Zend Framework 2.
+- [Apigility](https://apigility.org) - The world's easiest way to create high-quality APIs.
 
-Project structure examples
-==========================
+### Tools and integrations
+- Not known.
 
-Skeleton application for zend-mvc projects
-https://github.com/zendframework/ZendSkeletonApplication
+### ZF base CMS and engines
 
-Modules
-=======
+[Libra-CMS](https://github.com/libracms/libra-cms) - Joomla looking Content Managment System based on ZF2.
 
-Zend Framework 2 Modules Repository
-https://zfmodules.com
+### Books
 
-Zend Framework Campus
-https://github.com/zfcampus
+- [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2) - The book about Zend Framework 2 that is easy to read and understand for beginners.
 
-ZF-Commons
-https://github.com/ZF-Commons
+- [Using Zend Framework 3](https://github.com/olegkrivtsov/using-zend-framework-3-book) - Using Zend Framework 3 is a free and open-source book about popular PHP web development framework called Zend Framework 3.
 
-Utility module for maintaining modular Zend Framework 2 applications
-https://github.com/zendframework/ZFTool
+- [Zend Framework 2.0 by Example: Beginner’s Guide](https://www.packtpub.com/web-development/zend-framework-20-example-beginner%E2%80%99s-guide) This Book takes your web application building skills to new levels. Learn Zend Framework 2.0 through real world examples.
 
-Module for developer and debug tools for working with the ZF2 MVC layer
-https://github.com/zendframework/ZendDeveloperTools
+- [Zend Framework 2 Cookbook](https://www.packtpub.com/web-development/zend-framework-2-cookbook) -  This book is the perfect way to access and understand the features of Zend Framework 2.
 
-Zend Framework 2 Module for Doctrine ORM
-https://github.com/doctrine/DoctrineORMModule
+- [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20) - Less theory, more practical approach.
 
-Console application to create ZF2 application rapidly
-https://github.com/ZFrapid/zf2rapid
+- [Zend Framework 2 Application Development](https://www.packtpub.com/web-development/zend-framework-2-application-development) - Create more powerful applications using the flexibility of Zend Framework 2.
 
-PHP whoops error on ZF2 framework
-https://github.com/ghislainf/zf2-whoops
+- [Learn ZF2](http://learnzf.com/book) - Learn and develop applications in Zend Framework 2 fast and easy.
 
-Simple Migrations for Zend Framework 2
-https://github.com/vgarvardt/ZfSimpleMigrations
+- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en) - Concepts, Techniques and Practical Solutions.
 
-The world's easiest way to create high-quality APIs
-https://apigility.org
+- [Zend Framework 2 Certification Study Guide](http://www.zend.com/en/services/certification/zf2-certification-study-guide) - An excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework 2 Certified Architect.
 
-Tools and integrations
-======================
-Not known.
+- [Zend Framework 3 - Das Praxisbuch (German)](https://www.zendframeworkbuch.de) - One of the best book about ZF in german language.
 
-CMS and engines (ZF based)
-==========================
+### Slides
 
-Joomla looking Content Managment System based on ZF2
-https://github.com/libracms/libra-cms
+- [Ralf Eggert](http://www.slideshare.net/eggertralf/) - Slides about Zend Framework from Ralf Eggert.
+- [ZF Slideshare](http://www.slideshare.net/search/slideshow?q=zend+framework) - Slides about Zend Framework from SlideShare.
 
-Books
-=====
 
-Using Zend Framework 2
-https://leanpub.com/using-zend-framework-2
+### Communities
 
-Using Zend Framework 3
-https://github.com/olegkrivtsov/using-zend-framework-3-book
+- [ZendDevZone](https://devzone.zend.com) - Zend Developer Zone.
+- [Zend Forum](http://forums.zend.com) - Official Zend Forum.
+- [zfforum](http://www.zfforum.de) - German-speaking community.
 
-Zend Framework 2.0 by Example: Beginner’s Guide
-https://www.packtpub.com/web-development/zend-framework-20-example-beginner%E2%80%99s-guide
+### Blogs
 
-Zend Framework 2 Cookbook
-https://www.packtpub.com/web-development/zend-framework-2-cookbook
+- [ZF Blog](https://framework.zend.com/blog) - Official Zend Framework Blog.
+- [Big-Sticky-Notes](https://github.com/bigemployee/Big-Sticky-Notes) - Big Sticky Notes is web application tutorial built on of ZF2.
+- [Matthew Weier O'phinney Blog](https://mwop.net) - ZF project lead Blog.
 
-Instant Zend Framework 2.0
-https://www.packtpub.com/web-development/instant-zend-framework-20
 
-Zend Framework 2 Application Development
-https://www.packtpub.com/web-development/zend-framework-2-application-development
+- [Zend Blog exmaple](https://github.com/romka/zend-blog-example) Zend Blog example from Romka.
+- [Enrico Zimuel Blog](http://www.zimuel.it/category/zend-framework) — Zend Framework Core Developer Blog.
 
-Learn ZF2
-http://learnzf.com/book
+### Social Media
 
-Web Development with Zend Framework 2
-https://leanpub.com/zendframework2-en
+- [zfdevteam](https://twitter.com/zfdevteam) - Official Zend Framework development team account.
+- [framework_zend](https://twitter.com/framework_zend) - Blogging important informations on Zend Framework (German).
 
-Zend Framework 2 Certification Study Guide
-http://www.zend.com/en/services/certification/zf2-certification-study-guide
+### Others
 
-Zend Framework 3 - Das Praxisbuch (German)
-https://www.zendframeworkbuch.de
+- [ZF on Stackoverflow](http://stackoverflow.com/questions/tagged/zend-framework) - Question and answer about Zend Framework on Stackoverflow.
+- [zendcon-design-patterns](https://github.com/zfcampus/zendcon-design-patterns) - ZendCon Design Patterns.
 
-Slides
-======
-
-Ralf Eggert
-http://www.slideshare.net/eggertralf/
-
-Slides about Zend Framework from SlideShare
-http://www.slideshare.net/search/slideshow?q=zend+framework
-
-Communities
-===========
-
-Zend Developer Zone:
-https://devzone.zend.com
-
-Zend Forum
-http://forums.zend.com
-
-German-speaking community
-http://www.zfforum.de
-
-Blogs
-=====
-
-Official Blog
-https://framework.zend.com/blog
-
-Big Sticky Notes is web application tutorial built on of ZF2
-https://github.com/bigemployee/Big-Sticky-Notes
-
-Blog exmaple
-https://github.com/romka/zend-blog-example
-
-Enrico Zimuel — Zend Framework Core Developer
-http://www.zimuel.it/category/zend-framework/
-
-Social Media
-============
-
-Official Zend Framework development team account
-https://twitter.com/zfdevteam
-
-Blogging important informations on zend framework
-https://twitter.com/framework_zend
-
-Others
-======
-
-ZF on Stackoverflow
-http://stackoverflow.com/questions/tagged/zend-framework
-
-ZendCon Design Patterns
-https://github.com/zfcampus/zendcon-design-patterns
-
-Contributing
-============
+### Contributing
 
 1. Fork it
 2. Create new branch (git checkout -b new-links)
