@@ -24,7 +24,8 @@ Join discussion and contribute!
 - [Video2Brain: New in Zend Framework 2 (German)](https://www.video2brain.com/de/videotraining/neu-in-zend-framework-2) - Look and understand new functions of ZF2.
 - [Udemy: Zend Framework 2: Learn the PHP framework ZF2 from scratch](https://www.udemy.com/zend-framework-2-from-beginner-to-professional/) - Learn how to code and become a professional web developer with the PHP framework ZF2 in just a few hours.
 - [ZF2 for PRO (Russian)](https://www.youtube.com/playlist?list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0) - Zend Framework 2 and Doctrine Youtube course.
-
+- [Zend Framework 2. Development fundamentals (Russian)](http://www.specialist.ru/course/zend1) - ZF basics: modules, mvc-controllers, events, zend-db, forms, filter, validators, zend-view, zend-mail.
+- [Zend Framework 2. Advanced level (Russian)](http://www.specialist.ru/course/zend2) - Advanced ZF: service manager, annotation for forms, authentication with zf2, pagination, rest, csrf.
 
 ### Project structure examples
 
@@ -44,7 +45,6 @@ Join discussion and contribute!
 - [Apigility](https://apigility.org) - The world's easiest way to create high-quality APIs.
 - [PHP-DI integration with ZF2](https://github.com/PHP-DI/ZF2-Bridge) - This library provides integration for PHP-DI (Dependency Injection Container) with Zend Framework 2.
 - [zf2-assets-bundle](https://github.com/neilime/zf2-assets-bundle) - AssetsBundle is a module for Zend Framework allowing asset managment (bundling & caching).
-
 - [ZfSnapPhpDebugBar](https://github.com/snapshotpl/ZfSnapPhpDebugBar) - PHP Debug Bar module for Zend Framework 2.
 
 ### Tools and integrations
@@ -54,29 +54,19 @@ Join discussion and contribute!
 ### ZF base CMS and engines
 
 - [Rubedo CMS](https://github.com/WebTales/rubedo) - An open source PHP CMS, based on Zend Framework & NoSQL MongoDB and Elasticsearch and AngularJS.
-
-[Libra-CMS](https://github.com/libracms/libra-cms) - Joomla looking Content Managment System based on ZF2.
+- [Libra-CMS](https://github.com/libracms/libra-cms) - Joomla looking Content Managment System based on ZF2.
 
 ### Books
 
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2) - The book about Zend Framework 2 that is easy to read and understand for beginners.
-
 - [Using Zend Framework 3](https://github.com/olegkrivtsov/using-zend-framework-3-book) - Using Zend Framework 3 is a free and open-source book about popular PHP web development framework called Zend Framework 3.
-
 - [Zend Framework 2.0 by Example: Beginner’s Guide](https://www.packtpub.com/web-development/zend-framework-20-example-beginner%E2%80%99s-guide) This Book takes your web application building skills to new levels. Learn Zend Framework 2.0 through real world examples.
-
 - [Zend Framework 2 Cookbook](https://www.packtpub.com/web-development/zend-framework-2-cookbook) -  This book is the perfect way to access and understand the features of Zend Framework 2.
-
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20) - Less theory, more practical approach.
-
 - [Zend Framework 2 Application Development](https://www.packtpub.com/web-development/zend-framework-2-application-development) - Create more powerful applications using the flexibility of Zend Framework 2.
-
 - [Learn ZF2](http://learnzf.com/book) - Learn and develop applications in Zend Framework 2 fast and easy.
-
 - [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en) - Concepts, Techniques and Practical Solutions.
-
 - [Zend Framework 2 Certification Study Guide](http://www.zend.com/en/services/certification/zf2-certification-study-guide) - An excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework 2 Certified Architect.
-
 - [Zend Framework 3 - Das Praxisbuch (German)](https://www.zendframeworkbuch.de) - One of the best book about ZF in german language.
 
 ### Slides
@@ -96,14 +86,13 @@ Join discussion and contribute!
 - [ZF Blog](https://framework.zend.com/blog) - Official Zend Framework Blog.
 - [Big-Sticky-Notes](https://github.com/bigemployee/Big-Sticky-Notes) - Big Sticky Notes is web application tutorial built on of ZF2.
 - [Matthew Weier O'phinney Blog](https://mwop.net) - ZF project lead Blog.
-
-
 - [Zend Blog exmaple](https://github.com/romka/zend-blog-example) Zend Blog example from Romka.
 - [Enrico Zimuel Blog](http://www.zimuel.it/category/zend-framework) — Zend Framework Core Developer Blog.
 
 ### Social Media
 
 - [zfdevteam](https://twitter.com/zfdevteam) - Official Zend Framework development team account.
+- [Master Zend Framework](https://twitter.com/zfmastery) - Get your Zend Framework goodness.
 - [framework_zend](https://twitter.com/framework_zend) - Blogging important informations on Zend Framework (German).
 
 ### Others
