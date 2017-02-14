@@ -20,6 +20,9 @@ Join discussion and contribute!
 - [AlexTech](http://alex-tech-adventures.com) - Zend Framework video tutorials on Youtube.
 - [Zend Webinars](http://www.zend.com/en/webinars/recorded/show-by-topic/242_zend+framework)- List of Zend Framework Webninars from RogueWave Software.
 - [Zend Webinars](http://www.zend.com/en/resources/webinars) - Another list of recorded Webinars from RogueWave Software.
+- [Master Zend Framework](http://www.masterzendframework.com) - Learn everything there is to know about developing amazing applications with the Zend Framework.
+- [Video2Brain: New in Zend Framework 2 (German)](https://www.video2brain.com/de/videotraining/neu-in-zend-framework-2) - Look and understand new functions of ZF2.
+- [Udemy: Zend Framework 2: Learn the PHP framework ZF2 from scratch](https://www.udemy.com/zend-framework-2-from-beginner-to-professional/) - Learn how to code and become a professional web developer with the PHP framework ZF2 in just a few hours.
 - [ZF2 for PRO (Russian)](https://www.youtube.com/playlist?list=PLoonZ8wII66j76OU66nzKdKy1kYp0fWK0) - Zend Framework 2 and Doctrine Youtube course.
 
 
@@ -39,11 +42,18 @@ Join discussion and contribute!
 - [zf2-whoops](https://github.com/ghislainf/zf2-whoops) - PHP whoops error on ZF2 framework.
 - [ZfSimpleMigrations](https://github.com/vgarvardt/ZfSimpleMigrations) - Simple Migrations for Zend Framework 2.
 - [Apigility](https://apigility.org) - The world's easiest way to create high-quality APIs.
+- [PHP-DI integration with ZF2](https://github.com/PHP-DI/ZF2-Bridge) - This library provides integration for PHP-DI (Dependency Injection Container) with Zend Framework 2.
+- [zf2-assets-bundle](https://github.com/neilime/zf2-assets-bundle) - AssetsBundle is a module for Zend Framework allowing asset managment (bundling & caching).
+
+- [ZfSnapPhpDebugBar](https://github.com/snapshotpl/ZfSnapPhpDebugBar) - PHP Debug Bar module for Zend Framework 2.
 
 ### Tools and integrations
-- Not known.
+
+- [ZF2Helper](https://github.com/pipe-devnull/ZF2Helper) - ZF 2 helper for Sublime Text editor that helps automate the creation of new modules, controllers and actions.
 
 ### ZF base CMS and engines
+
+- [Rubedo CMS](https://github.com/WebTales/rubedo) - An open source PHP CMS, based on Zend Framework & NoSQL MongoDB and Elasticsearch and AngularJS.
 
 [Libra-CMS](https://github.com/libracms/libra-cms) - Joomla looking Content Managment System based on ZF2.
 
@@ -100,6 +110,7 @@ Join discussion and contribute!
 
 - [ZF on Stackoverflow](http://stackoverflow.com/questions/tagged/zend-framework) - Question and answer about Zend Framework on Stackoverflow.
 - [zendcon-design-patterns](https://github.com/zfcampus/zendcon-design-patterns) - ZendCon Design Patterns.
+- [ZF on gostash.it (Russian)](https://gostash.it/ru/stashes/tagged/zf2) - Zend Framework snippets.
 
 ### Contributing
 
