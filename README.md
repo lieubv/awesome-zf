@@ -46,6 +46,8 @@ Join discussion and contribute!
 - [PHP-DI integration with ZF2](https://github.com/PHP-DI/ZF2-Bridge) - This library provides integration for PHP-DI (Dependency Injection Container) with Zend Framework 2.
 - [zf2-assets-bundle](https://github.com/neilime/zf2-assets-bundle) - AssetsBundle is a module for Zend Framework allowing asset managment (bundling & caching).
 - [ZfSnapPhpDebugBar](https://github.com/snapshotpl/ZfSnapPhpDebugBar) - PHP Debug Bar module for Zend Framework 2.
+- [zf2-twb-bundle](https://github.com/neilime/zf2-twb-bundle) - Zend Framework 2 module for easy integration of Twitter Bootstrap.
+- [AssetManager](https://github.com/RWOverdijk/AssetManager) - AssetManager - Managing assets for ZF2.
 
 ### Tools and integrations
 
@@ -88,6 +90,7 @@ Join discussion and contribute!
 - [Matthew Weier O'phinney Blog](https://mwop.net) - ZF project lead Blog.
 - [Zend Blog exmaple](https://github.com/romka/zend-blog-example) Zend Blog example from Romka.
 - [Enrico Zimuel Blog](http://www.zimuel.it/category/zend-framework) — Zend Framework Core Developer Blog.
+- [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/) - Cool ZF 2/3 tutorials.
 
 ### Social Media
 
