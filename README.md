@@ -1,4 +1,6 @@
-A curated list of awesome Zend Framework 2/3 modules, tutorials, books and other nice things.
+# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome Zend Framework 3 modules, tutorials, books and other nice things.
 
 Join discussion and contribute!
 
@@ -112,3 +114,9 @@ Join discussion and contribute!
 4. Commit your changes (git commit -am 'Added some cool links')
 5. Push to the branch (git push origin new-links)
 6. Create new Pull Request
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Alexander Schilling has waived all copyright and related or neighboring rights to this work.
