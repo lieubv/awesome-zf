@@ -82,9 +82,12 @@ Join discussion and contribute!
 
 ### Communities
 
+- [Slack](https://zendframework-slack.herokuapp.com/) - Official slack team for Zend Framework
+- [Discourse](https://discourse.zendframework.com/) - Zend Framework official discussion board.
 - [ZendDevZone](https://devzone.zend.com) - Zend Developer Zone.
 - [Zend Forum](http://forums.zend.com) - Official Zend Forum.
 - [zfforum](http://www.zfforum.de) - German-speaking community.
+- [z-f.fr](http://www.z-f.fr) - French-speaking community.
 
 ### Blogs
 
