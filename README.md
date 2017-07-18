@@ -41,6 +41,7 @@ Join discussion and contribute!
 - [ZFTool](https://github.com/zendframework/ZFTool) - Utility module for maintaining modular Zend Framework 2 applications.
 - [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) - Module for developer and debug tools for working with the ZF2 MVC layer.
 - [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule) - Zend Framework 2 Module for Doctrine ORM.
+- [ACMailer](https://github.com/acelaya/ZF-AcMailer) - Zend Framework 2 / 3 module for sending templated emails
 - [zf2rapid](https://github.com/ZFrapid/zf2rapid) - Console application to create ZF2 application rapidly.
 - [zf2-whoops](https://github.com/ghislainf/zf2-whoops) - PHP whoops error on ZF2 framework.
 - [ZfSimpleMigrations](https://github.com/vgarvardt/ZfSimpleMigrations) - Simple Migrations for Zend Framework 2.
